@@ -13,7 +13,7 @@
   <img alt="NextJs" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" align="center" >
 </div>
 
-<!--
+
 
 <br>
 📫 How to reach me: ...
@@ -22,6 +22,8 @@
     <img class="filter-green" alt="Youtube" width="30" height="30" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/youtube.svg" align="center">
   </a>
 </div>
+
+<!--
 **LuizEnokJunior/LuizEnokJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
