@@ -13,7 +13,7 @@
   <img alt="NextJs" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" align="center" >
 </div>
 
-<!--
+
 
 <br>
 📫 How to reach me: ...
