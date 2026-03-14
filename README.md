@@ -3,7 +3,7 @@
 
 I am a Software Engineer and a natural **Problem-Solver**. I specialize in migrating, architecting, and building scalable web applications that combine robust backend architecture with award-winning visual experiences. 
 
-My focus is on the **Modern Web Ecosystem**—leaving legacy boilerplate behind to build faster, safer, and visually stunning digital products.
+My focus is on the **Modern Web Ecosystem**, leaving legacy boilerplate behind to build faster, safer, and visually stunning digital products.
 
 ---
 
